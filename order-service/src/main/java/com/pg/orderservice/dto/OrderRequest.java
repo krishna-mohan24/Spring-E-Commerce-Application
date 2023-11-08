@@ -1,6 +1,5 @@
 package com.pg.orderservice.dto;
 
-import com.pg.orderservice.model.OrderLineItems;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
